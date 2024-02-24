@@ -1,5 +1,4 @@
-import React from 'react';
-import { useReducer } from "react";
+import React, { useReducer } from "react";
 import "./styles.css"
 import DigitButton from "./DigitButton";
 import OperationButton from "./OperationButton";
